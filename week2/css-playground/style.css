@@ -1,4 +1,12 @@
+/* 
+Order of precedence:
+1. Inline style
+2. Internal styles
+3. External styles
+
+!important will override any precedence*/
+
 # {
-    color:purple;
+    color:purple!important;
     background-color: orange;
 }
