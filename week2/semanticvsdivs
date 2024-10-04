@@ -13,36 +13,31 @@
         1) easier to read/scan html
         2) better for SEO
         3) better for screen readers/accessibility -->
-    
+
     <header>
-        <img src="" alt="" srcset="">
+        <img src = "" alt = "">
+
         <nav>
-            <ul>
-                <li>
-                    <a href = ""></a>
-                </li>
-                <li>
-                    <a href = ""></a>
-                </li>
-            </ul>
+            <li>
+                <a href = ""></a>
+            </li>
+            <li>
+                <a href = ""></a>
+            </li>
         </nav>
     </header>
 
     <main>
         <section>
             <h2>Benefits</h2>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Saepe voluptatum in magni praesentium necessitatibus!
-                Voluptate nam saepe aut! Illo culpa excepturi et corrupti, officia ad eaque facilis nam repellat eius?</p>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maiores,
+                dignissimos.</p>
         </section>
 
         <section>
             <h2>How it works</h2>
-            <p>Lorem ipsum dolor sit amet.</p>
+            <p>Loream ipsum dolor sit amet.</p>
         </section>
-
-        <article>
-
-        </article>
     </main>
 
     <footer>
@@ -52,6 +47,7 @@
             </li>
         </ul>
     </footer>
+
 
 </body>
 </html>
