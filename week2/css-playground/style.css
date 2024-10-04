@@ -9,6 +9,10 @@ Order of precedence:
 
 /* html tag selection */
 
+html {
+    font-family: Arial, sans-serif;
+}
+
 body {
     background-color:#1c87c9;
   }
