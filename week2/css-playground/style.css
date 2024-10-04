@@ -23,7 +23,7 @@ p {
 }
 
 /* class selection*/
-middle-p {
+.middle-p {
     color:#FFFFFF;
     text-align:center;
     text-decoration:underline;
