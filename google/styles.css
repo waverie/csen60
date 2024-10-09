@@ -26,3 +26,9 @@ button {
     border: 1px solid #f8f9fa;
     cursor: pointer;
 }
+
+#climate-message {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
