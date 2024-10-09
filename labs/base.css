@@ -1,0 +1,74 @@
+body {
+  /** define custom properties so we can reference and change styles easily */
+  --accent-background: #54a0ff;
+  --accent-background-text: #073164;
+  --accent-text: #2e86de;
+  --gray: #eee;
+  --dark-gray: #ccc;
+  --darkest-gray: #aaa;
+  --black: #333;
+
+  color: var(--black);
+  line-height: 1.5rem;
+  margin: 0;
+  padding: 0;
+}
+
+
+/**
+  unordered list
+*/
+
+ul.tags {
+  display: flex;
+  list-style: none;
+
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+
+  padding-left: 0px;
+}
+
+ul.tags li {
+  border-radius: .5rem;
+  background-color: var(--gray);
+  /* background color should be --gray */
+  padding:.1rem .5rem;
+  margin-left: .25rem;
+  margin-right: .25rem;
+}
+
+ul.tags a {
+  /*color should be darkest-gray*/
+  color: var(--darkest-gray);
+}
+
+a {
+  text-decoration: none;
+}
+
+/**
+  navigation
+*/
+nav {
+  /* background color should be accent-background */
+  background-color: var(--accent-background);
+  display: flex;
+  justify-content: flex-end;
+}
+
+nav ul {
+  /* something should go here */
+  list-style: none;
+  display: flex;
+}
+
+nav ul a {
+  /* color should be accent-background-text */
+  color: var(--accent-background-text);
+  text-decoration: none;
+}
+
+nav ul li {
+  margin-right: 1rem;
+}
