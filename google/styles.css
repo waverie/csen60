@@ -13,7 +13,7 @@ ul {
     gap: 16px;
 }
 
-header {
+header, footer {
     display: flex;
     justify-content: space-between;
 }
