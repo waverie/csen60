@@ -54,4 +54,11 @@ body {
     height: 100vh;
 }
 
-/* Grid */
+/* Absolute positioning
+
+footer {
+    position: absolute;
+    bottom: 0;
+    right: 200px;
+}
+/*
