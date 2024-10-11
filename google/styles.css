@@ -25,7 +25,6 @@ button {
     background-color: #f8f9fa;
     border: 1px solid #f8f9fa;
     cursor: pointer;
-    align-items: center;
 }
 
 #climate-message {
@@ -34,8 +33,25 @@ button {
     align-items: center;
 }
 
+/* ways to accomplish pre-work 10/11:
+
+1. Flexbox
+2. Grid
+3. Absolute positioning*/
+
+/*
+Flexbox: 
+*/
+
 main {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    align-self: center; /* child of Flexbox */
 }
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+}
+
+/* Grid */
