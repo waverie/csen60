@@ -25,10 +25,17 @@ button {
     background-color: #f8f9fa;
     border: 1px solid #f8f9fa;
     cursor: pointer;
+    align-items: center;
 }
 
 #climate-message {
     display: flex;
     gap: 1rem;
+    align-items: center;
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
     align-items: center;
 }
