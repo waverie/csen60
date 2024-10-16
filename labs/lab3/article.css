@@ -1,0 +1,9 @@
+main {
+    margin: auto;
+    max-width: min(80%, 80ch);
+}
+
+article {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
