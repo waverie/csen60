@@ -1,6 +1,6 @@
-import { serve } from '@hono/node-server' 6.3k (gzipped: 2.7k)
-import {serveStatic} from '@hono/node-server/serve-static' 4.3k
-import { Hono } from 'hono' 19.7k (gzipped: 7.4k)
+import { serve } from '@hono/node-server' 
+import {serveStatic} from '@hono/node-server/serve-static'
+import { Hono } from 'hono'
 
 
 const app = new Hono()
@@ -22,6 +22,7 @@ const todos = [
 
 app.get('/api/todos', (c) => {
   // database call to fetch todos
+  console.log("fetch todos")
   return c.json(todos)
 })
 
@@ -36,5 +37,4 @@ serve({
 app.use("/*", serveStatic({
   root: "./static",
 }))
-
 
