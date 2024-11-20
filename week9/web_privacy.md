@@ -59,7 +59,7 @@ Behavior Logging:
     - Hovers
 - Time between actions
     - How long u spend looking @ post
-    - Did u skip ad? At what point in ad?
+    - Did u skip ad? @ what point in ad?
 
 Data Applications:
 
@@ -85,7 +85,7 @@ Search:
     - Did user need to write another query?
 - Predictive suggestions
 - PageRank
-- Natural language processing
+- Natural language processing (NLP)
 
 Recommendation:
 
@@ -101,7 +101,7 @@ Drive a metric:
 - Iterative UI improvements
 - Ex's
     - Email client: decrease time to reply to emails
-    - Increases engagement w/ feature that generates more data
+    - Increase engagement w/ feature that generates more data
     - Increase behavior that fits more profitable business model
 - A/B Testing
 
@@ -114,16 +114,16 @@ Big Data:
 - Can predict behaviors, political tendencies & more w/ seemingly unrelated data points
 
 Lots of Sensitive Info:
-- Personally identifiable info:
+- Personally identifiable info (PII):
     - Name, address, phone, email
     - Demographics: age, race, gender
-    - Past contributions, purchases, rental, friends, ...
+    - Past contributions, purchases, rentals, friends, ...
 - Financial Info:
     - Credit cards
     - Bank accounts
 - Legally sensitive
     - Health info (HIPPA)
-    - Student info
+    - Student info (FERPA)
     - Info from children (COPPA)
 
 Privacy Policy:
