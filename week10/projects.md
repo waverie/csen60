@@ -161,3 +161,131 @@ Best Practices:
     - Console.log to see if code is executed
     - View 'Problems' tab
 
+## Nike
+
+Web Technologies:
+    
+- Tailwind CSS (for the navbar)
+- React
+- Next JS
+- Neon (database provider)
+
+Cart Page:
+- Functionalities:
+    - Add or subtract shoe
+    - Check on question marks
+    - PayPal button sends you to PayPal
+
+Best Practices:
+
+- Using TailWind Extension
+- Stack Overflow
+- ChatGPT
+- Google
+
+Challenges:
+
+
+Kyle:
+- Using TailWind CSS
+    - Solution: Having docs as extension open while coding, memorizing common classes and checking in docs.
+
+- Neon Database and Vercel Server Deployment
+    - Connecting database to front end & creating API routes that Work
+    - Solution: Reading through Neon Vercel documentation, watching YouTube tutorials, console.log() everything, check network tab
+
+Jason:
+
+- Learning Tailwind, React & Next.js
+    - Functionalities
+    - Understanding Uses
+    - Doing YouTube tutorials
+        - Searching Online at Google
+
+- Styling the Cart Page
+    - Solution: Tailwind CSS extension and using Google & ChatGPT
+
+Key Learnings:
+
+Kyle:
+- Web technologies constantly evolving
+- Organization key when project starts to scale up
+- Devtools really strong
+
+Jason:
+- Use Tailwind
+- Searching best friend
+- Do what works best to finish job
+    - Can always go back to improve
+
+## Reddit
+
+Best Practices Implemented:
+- Hierarchy layout w/ semantic elements (articles, nav, headers, aside)
+- Comment notes
+- Use separate branches
+- Inspecting Reddit's pages
+
+Challenges:
+- Overusing class and Implemented
+    - Solution: Organize CSS w/ comments & use phrase Searching
+- General obstacles (creating & styling popup menu, toggles)
+    - Solution: StackOverflow, ChatGPT, W3Schools, and YouTube
+- Getting carousel to load without clicking on the navigation Buttons
+    - Solution: Putting an event listener to load the carousel
+- Setting up API
+    - Solution: Class notes & internet
+
+Key Learnings:
+- Collaboration between CSS, JS, and HTML
+- Naigating teamwork through GitHub
+- Terminal (ls, cd, downloading node.js)
+- Learning how to use push & pull & merging in GitHub
+- HTML tags
+
+## Professor Dennis Smolarski's Math 13 Course Webpage
+
+Pages Implemented:
+    - Home Page
+    - Course Content Page
+    - Relevant Web Links Page
+    - About Professor Page
+
+Technologies:
+- HTML (content)
+- CSS (styles)
+- JS (functionalities)
+
+How?
+- Popups
+- Advanced Accordion
+- Cross-platform search feature!
+
+Best Practices:
+- Attention to margin use (issues scrolling horizontally)
+    - Solution: Body Code
+- Nielsen Heuristics
+    - Solution: Figured out ways to resolve problems from original website
+- Organized Pull Requests
+    - Don't want to mess up other's work or they'll be incredibly angry at you
+
+Challenges:
+- Merge conflicts
+    - Solution: Pulling everyone's branches to local machines and communicating about merges
+- URL/Path Issues
+    - Solution: Using globally-accessible links
+
+Key Learnings:
+
+Nikash:
+- Working on Github in team
+- How to design website
+
+Jermian:
+- Integrating JS into design
+
+Patrick
+- Ensuring file links are globally
+- Site cohseiveness.
+
+## 
