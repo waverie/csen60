@@ -243,7 +243,7 @@ Key Learnings:
 - Learning how to use push & pull & merging in GitHub
 - HTML tags
 
-## Professor Dennis Smolarski's Math 13 Course Webpage
+## Professor Dennis Smolarski's Math 13 Course Webpage Remake
 
 Pages Implemented:
     - Home Page
