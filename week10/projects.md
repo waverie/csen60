@@ -288,4 +288,42 @@ Patrick
 - Ensuring file links are globally
 - Site cohseiveness.
 
-## 
+## Bluey
+
+Web Technologies Used:
+- HTML: structure content
+- CSS: used for styling
+- JavaScipt: Used for functionality
+
+Pages:
+- Home page
+- Characters
+- Socks
+- Quiz
+
+Functionalities Implemented:
+- Home page (Nishi): allows users to hover over top nav bar & see menu list for different drop-down items
+- Characters (Dani):
+- Socks(Ava)
+- Quiz (Isa)
+
+Best Practices:
+- ChatGPT
+- YouTube
+- Google
+- MozillaDocs
+- W3Docs
+
+Challenges/Solutions:
+- Merge requests & creating issues
+    - Practice
+- Resolving issues when generating questions or options
+    - Breakdown tasks
+- Loading time takes too long
+    - Comment out most of images inside carousel but leave enough to see functionality when building website
+
+Key Learnings:
+- Isa: writing HTML, styling CSS efficiently & adding interactivity w/ JavaScript
+- Ava: more familiar w/ CSS & pushed to utilize internet
+- Dani: organizing code neatly
+- Nish: how to troubleshoot when code doesn't work &  practice working w/ version control
